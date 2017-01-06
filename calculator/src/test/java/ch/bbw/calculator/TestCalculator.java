@@ -1,10 +1,10 @@
-package calculator;
+package ch.bbw.calculator;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ch.bbw.Calculator;
+import ch.bbw.calculator.Calculator;
 
 public class TestCalculator {
 	

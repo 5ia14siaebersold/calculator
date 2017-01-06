@@ -1,4 +1,4 @@
-package ch.bbw;
+package ch.bbw.calculator;
 
 public class CalculatorApp {
 	public static void main(String[] args) {
